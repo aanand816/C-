@@ -1,0 +1,32 @@
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.Form1.resources
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.csproj.GenerateResource.cache
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.AssemblyInfoInputs.cache
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.AssemblyInfo.cs
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.exe
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.deps.json
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.runtimeconfig.json
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.dll
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.pdb
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.dll
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\refint\PersonalExpenseTracker.dll
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.pdb
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.genruntimeconfig.cache
+C:\Users\rajdh\source\repos\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\ref\PersonalExpenseTracker.dll
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.exe
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.deps.json
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.runtimeconfig.json
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.dll
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\bin\Debug\net9.0-windows\PersonalExpenseTracker.pdb
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.Form1.resources
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.csproj.GenerateResource.cache
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.AssemblyInfoInputs.cache
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.AssemblyInfo.cs
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.csproj.CoreCompileInputs.cache
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.dll
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\refint\PersonalExpenseTracker.dll
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.pdb
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\PersonalExpenseTracker.genruntimeconfig.cache
+E:\HUMBER\Semester 2\C#\Assignments\PersonalExpenseTracker\PersonalExpenseTracker\obj\Debug\net9.0-windows\ref\PersonalExpenseTracker.dll
